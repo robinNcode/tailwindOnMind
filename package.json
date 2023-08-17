@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tailwindcss build -i ./src/styles.css -o ./output/styles.css -w"
+    "build": "tailwindcss build -i ./src/input.css -o ./output/tailwind.css -w"
   },
   "keywords": [
     "frontend",
